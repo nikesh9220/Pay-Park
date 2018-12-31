@@ -1,0 +1,43 @@
+
+#body-bg2 {
+    background-attachment: fixed;
+    background-clip: border-box;
+    background-color: #FFFFFF;
+    background-origin: padding-box;
+    background-position: 50% 0;
+    background-repeat: no-repeat;
+    background-size: cover !important;
+    position: relative;
+}
+
+.Regions{float: right; width: 350px; background: green; height: 470px;}
+.Regions p{Text-align: center; font-weight: bold; text-decoration: underline;}
+.Regions p.status {Text-align: center; font-weight: normal; text-decoration: none;}
+
+table.gridtable {
+    font-family: verdana,arial,sans-serif;
+    font-size:11px;
+    color:#333333;
+    border-width: 1px;
+    border-color: #666666;
+    border-collapse: collapse;
+    width: 300px;
+    margin:auto; MARGIN-TOP: 20PX;
+}
+table.gridtable th {
+    border-width: 1px;
+    padding: 8px;
+    border-style: solid;
+    border-color: #666666;
+    background-color: #dedede;
+}
+table.gridtable td {
+    border-width: 1px;
+    padding: 8px;
+    border-style: solid;
+    border-color: #666666;
+    background-color: yellow;
+    text-align: center;
+    font-weight: bold;
+    height: 25px;
+}
